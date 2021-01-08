@@ -7,6 +7,8 @@ A birthday present for a friend :D
 - altered the project to our requirements
 - designed the interface on our own
 
+Used the intern version control of unity and uploaded here
+
 -------
 ### Credit to
 Unity for providing the course :)
