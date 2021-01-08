@@ -7,7 +7,8 @@ A birthday present for a friend :D
 - altered the project to our requirements
 - designed the interface on our own
 
-## Credit to
+-------
+### Credit to
 Unity for providing the course :)
 Developers: Jin Jin & Serena
 Design&Story: Jin-Fei, Michelle & Dorothy
